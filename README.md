@@ -249,4 +249,4 @@ This repository serves as the official landing page for Citrix Workspace. The so
 **Get the most recent version of Citrix Workspace today!**
 
 ---
-**Last updated:** 2026-10-27 03:10:23 UTC
+**Last updated:** 2026-10-27 09:29:16 UTC
